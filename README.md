@@ -9,5 +9,4 @@
 *  :ant: bugs and fps drops are also avalible
   
 
-##### Have Fun:
-<a href="https://mero-plaform.github.io/CSS-3D-Dungeon"> pages link </a>
+Have Fun: <a href="https://mero-plaform.github.io/CSS-3D-Dungeon"> pages link </a>

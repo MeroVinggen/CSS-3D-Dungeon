@@ -4,8 +4,7 @@
 
 ### Preview
 
-<img width="49%" src="./preview 1.gif" alt="preview 1">
-<img width="49%" src="./preview 2.gif" alt="preview 2">
+<img width="49%" src="./preview 1.gif" alt="preview 1"> <img width="49%" src="./preview 2.gif" alt="preview 2">
 
 ### About
 

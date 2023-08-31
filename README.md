@@ -2,6 +2,11 @@
 
 # 3D environment built with css transformations
 
+### Preview
+
+<img src="./preview 1.gif" alt="preview 1">
+<img src="./preview 2.gif" alt="preview 2">
+
 ### About
 
 *  :package: 3D environment build on native html/css

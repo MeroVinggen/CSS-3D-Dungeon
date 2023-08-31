@@ -4,14 +4,14 @@
 
 ### Preview
 
-<img src="./preview 1.gif" alt="preview 1">
+<img width="50%" src="./preview 1.gif" alt="preview 1">
 <img src="./preview 2.gif" alt="preview 2">
 
 ### About
 
 *  :package: 3D environment build on native html/css
 *  :video_game: one full level with interactive items and puzzles
-*  :ant: bugs and fps drops are also avalible
+*  :ant: bugs and fps drops are also available
   
 ### Tech stack
 

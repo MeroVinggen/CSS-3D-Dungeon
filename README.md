@@ -5,7 +5,7 @@
 ### Preview
 
 <img width="50%" src="./preview 1.gif" alt="preview 1">
-<img src="./preview 2.gif" alt="preview 2">
+<img width="50%" src="./preview 2.gif" alt="preview 2">
 
 ### About
 

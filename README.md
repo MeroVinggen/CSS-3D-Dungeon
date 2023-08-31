@@ -1,10 +1,10 @@
-<img src="github poster.jpg">
+<img src="./github extras/github poster.jpg">
 
 # 3D environment built with css transformations
 
 ### Preview
 
-<img width="49%" src="./preview 1.gif" alt="preview 1"> <img width="49%" src="./preview 2.gif" alt="preview 2">
+<img width="49%" src="./github extras/preview 1.gif" alt="preview 1"> <img width="49%" src="./github extras/preview 2.gif" alt="preview 2">
 
 ### About
 
@@ -14,6 +14,6 @@
   
 ### Tech stack
 
-<img src="./tech stack.jpg" alt="tech stack list">
+<img src="./github extras/tech stack.jpg" alt="tech stack list">
 
 Have Fun: <a href="https://mero-plaform.github.io/CSS-3D-Dungeon"> pages link </a>

@@ -16,4 +16,4 @@
 
 <img src="./github extras/tech stack x_1274981237.png" alt="tech stack list">
 
-Have Fun: [pages link](href="https://mero-plaform.github.io/CSS-3D-Dungeon)
+Have Fun: [pages link](https://mero-plaform.github.io/CSS-3D-Dungeon)

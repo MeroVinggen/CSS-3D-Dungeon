@@ -4,7 +4,7 @@
 
 ### Preview
 
-
+<img width="49%" src="./github extras/preview 1.gif" alt="preview 1"> <img width="49%" src="./github extras/preview 2.gif" alt="preview 2">
 
 ### About
 

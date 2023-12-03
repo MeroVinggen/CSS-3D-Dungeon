@@ -16,4 +16,4 @@
 
 <img src="./github extras/tech stack x_1274981237.png" alt="tech stack list">
 
-Have Fun: <a href="https://mero-plaform.github.io/CSS-3D-Dungeon"> pages link </a>
+Have Fun: [pages link](href="https://mero-plaform.github.io/CSS-3D-Dungeon)
